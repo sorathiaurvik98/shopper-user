@@ -1,0 +1,2 @@
+# shopper-user
+User module
